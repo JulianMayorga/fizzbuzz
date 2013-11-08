@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.0",
+  "description": "Fizz Buzz TDD style",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "fizz",
+    "buzz",
+    "tdd",
+    "nodejs"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "author": "ElJuli",
+  "license": "MIT"
+}
